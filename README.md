@@ -1,4 +1,4 @@
-![image](https://github.com/zhaoxiongjun/ShennongGPT/assets/25002769/584344c5-a2c9-415c-8ee7-81b85029c27c)# ShennongGPT: 基于ChatGLM模型微调的中文用药指导大模型
+# ShennongGPT: 基于ChatGLM模型微调的中文用药指导大模型
 
 [![Code License](https://img.shields.io/badge/Code%20License-Apache_2.0-green.svg)](https://github.com/SCIR-HI/Med-ChatGLM/blob/main/LICENSE)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/release/python-390/)
